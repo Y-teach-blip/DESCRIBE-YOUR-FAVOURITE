@@ -43,8 +43,8 @@ h1 {
 #name {
     font-size: 30px;
     line-height: 1.2;
-   font-family: 'Syne Tactile', cursive;
-   color:tomato;
+    font-family: 'Syne Tactile', cursive;
+    color: tomato;
 }
 
 h2 {
@@ -76,13 +76,15 @@ p {
     color: tomato;
     font-family: 'Syne Tactile', cursive;
 }
+
 .menu {
     list-style: none;
     position: absolute;
     top: 10px;
     right: 30px;
     cursor: pointer;
-    }
+}
+
 .links {
     float: left;
     color: fuchsia;
@@ -92,4 +94,20 @@ p {
     padding-bottom: 5px;
     font-family: fantasy;
     font-size: 20px
+}
+
+.links:hover {
+    background-color: aqua;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: fuchsia;
 }
