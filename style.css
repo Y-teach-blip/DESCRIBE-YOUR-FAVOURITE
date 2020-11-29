@@ -9,14 +9,14 @@
     position: absolute;
     overflow: hidden;
     height: 800px;
-    color: tomato;
+    color: ;
     left: 0;
     top: 0;
     bottom: 0;
     right: 0;
     opacity: 0.83;
     background-color: #C850C0;
-background-image: linear-gradient(43deg, #C850C0 0%, #70a8ff 30%, #4158D0 66%);
+background-image: linear-gradient(43deg, #ff94cd 54%, #ac91e5 100%, #9198e5 250%);
     display: table;
     width: 100%;
     height: 100%;
@@ -27,7 +27,7 @@ body {
     padding-top: 800px;
     text-align: center;
     background-color: #FC00FF;
-background-image: linear-gradient(292deg, #FC00FF 0%, #0f0aee 33%, #00DBDE 66%)
+background-image: linear-gradient(#86A8E7 102%, #9198e5 101%)
 }
 
 .profile {
